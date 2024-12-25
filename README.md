@@ -105,7 +105,7 @@ CALL ListarProdutosFornecidos();
 
 ## 🎯 Contribuições e Melhorias
 
-Se tiver sugestões, dúvidas ou interesse em contribuir, sinta-se à vontade para abrir uma pull request ou issue. Juntos, podemos fazer😊
+Se tiver sugestões, dúvidas ou interesse em contribuir, sinta-se à vontade para abrir uma pull request ou issue. 😊
 
 ---
 
